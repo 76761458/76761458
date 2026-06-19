@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-☕ Java: [your skill level, e.g. Testing]
-🤖 Projects: [your focus, e.g. ML]
-📚 Learning: [what you're learning, e.g. Python]
-🎉 Fun Fact: [something fun about you]
+☕ Java: Testing
+🤖 Projects: ML
+📚 Learning: Python
+🎉 Fun Fact: Nightowl
 
 ---
 
@@ -27,6 +27,4 @@
 
 ---
 
-## 📊 GitHub Stats:
 
-![Chaya-G-P's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaya-G-P&show_icons=true&theme=dark)
