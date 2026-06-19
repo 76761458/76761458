@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 ☕ Java: Testing
+
 🤖 Projects: ML
+
 📚 Learning: Python
+
 🎉 Fun Fact: Nightowl
 
 ---
@@ -11,6 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaya-g-p)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chayagp3@gmail.com)
+[![Naukri](https://img.shields.io/badge/Naukri-1A56DB?style=for-the-badge&logoColor=white)](https://www.naukri.com/mnjuser/homepage)
 
 ---
 
